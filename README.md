@@ -1,7 +1,7 @@
 # Beta Test site for DataRyot's features
 unfortunately written in R
 
-### ShinyApps.io
+## ShinyApps.io
 
 - https://pirawna.shinyapps.io/repeatPurchase/ (10 MB)
      
@@ -14,7 +14,7 @@ Note ShinyApps.io has a limit of 25 user hours per month, this will limit the to
 Getting started with shinyapps.io: https://shiny.posit.co/r/articles/share/shinyapps/
 
 
-### Ploomber.io
+## Ploomber.io
 
 - https://autumn-recipe-5460.ploomberapp.io/
 
