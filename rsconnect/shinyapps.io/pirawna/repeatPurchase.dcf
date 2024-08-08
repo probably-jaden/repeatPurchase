@@ -5,7 +5,7 @@ account: pirawna
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 12366800
-bundleId: 8948596
+bundleId: 8954379
 url: https://pirawna.shinyapps.io/repeatPurchase/
 version: 1
 asMultiple: FALSE
