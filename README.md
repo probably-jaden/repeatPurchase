@@ -1,7 +1,7 @@
 # Beta Test site for DataRyot's features
 unfortunately written in R
 
-Running on small instances on ShinyApps.io:
+### ShinyApps.io
 
 - https://pirawna.shinyapps.io/repeatPurchase/ (10 MB)
      
@@ -11,12 +11,15 @@ Running on small instances on ShinyApps.io:
 
 Note ShinyApps.io has a limit of 25 user hours per month, this will limit the tools ability to become an integral monthly workflow 
 
+Getting started with shinyapps.io: https://shiny.posit.co/r/articles/share/shinyapps/
 
 
-Also running on Ploomber.io:
+### Ploomber.io
 
 - https://autumn-recipe-5460.ploomberapp.io/
 
-
 This should have no limit on memory, only cpu. But as far as I can tell it's much faster than shinyapps.io
+
+Getting started with ploomber: https://docs.cloud.ploomber.io/en/latest/apps/shiny-r.html
+
 
